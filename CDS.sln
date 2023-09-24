@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymetricKeyEncryption", "SymetricKeyEncryption\SymetricKeyEncryption.csproj", "{AD1CB453-36D5-42FC-9F39-92CD3F242CEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{7463A12A-DD6A-463C-BD7A-FF7886985CED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1CB453-36D5-42FC-9F39-92CD3F242CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1CB453-36D5-42FC-9F39-92CD3F242CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1CB453-36D5-42FC-9F39-92CD3F242CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1CB453-36D5-42FC-9F39-92CD3F242CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
